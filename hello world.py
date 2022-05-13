@@ -1,3 +1,7 @@
+#Autor:Edelmann Patrick
+#Datum:13.05.2022
+#Simply Python Programm Hi World!
+
 def print_hi(name):
     print(f'Hi, {name}')
 
